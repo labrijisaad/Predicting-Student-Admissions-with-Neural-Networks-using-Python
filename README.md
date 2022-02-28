@@ -1,6 +1,8 @@
 # `Predicting Student Admissions` with Neural Networks using Python 🐍 :
 
 ![image](https://user-images.githubusercontent.com/74627083/156024621-28392766-8964-40a7-b623-d5544d622e41.png)
+![image](https://user-images.githubusercontent.com/74627083/156024840-0fe23627-d5e4-48d8-ae01-b2ed06e689b5.png)
+
 
  - We tried in this notebook to predict student admissions to graduate school at UCLA based on three pieces of data.
    - GRE Scores (Test)
