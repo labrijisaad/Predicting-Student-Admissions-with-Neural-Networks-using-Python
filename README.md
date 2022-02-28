@@ -3,6 +3,7 @@
    - GRE Scores (Test)
    - GPA Scores (Grades)
    - Class rank (1-4)
+# `General overview` 🕊️
  - 👣 Here are the steps we followed in this notebook :
    - Loading the data.
    - Plotting the data.
