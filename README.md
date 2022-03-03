@@ -22,3 +22,5 @@
  - 🙌 This notebook realised with the help of [udacity courses](https://www.udacity.com/).
  - 📫 Feel free to contact me if anything is wrong or if anything needs to be changed 😎!  **labrijisaad@gmail.com**
 
+<a href="https://colab.research.google.com/github/labrijisaad/Predicting-Student-Admissions-with-Neural-Networks-using-Python/" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
